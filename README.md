@@ -1,5 +1,6 @@
 # sem4_python_dataVisulization
-#If you want to run this project your should consider adding some text in the following way.
+#If you want to run this project your should consider adding some text in the following way./n
+
 1)add your email and password in line 210,216 in SigniWindow.py,            
 363,369 in Createaccountwindow.py
 
