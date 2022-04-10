@@ -6,4 +6,4 @@
 
 
 #This is because of the otp feature which will be send from these provided email.
-#We use email system otp bases on stmplib.For more reference visit https://www.tutorialspoint.com/python/python_sending_email.html
+#We use email system otp bases on stmplib.For more reference visit https://www.tutorialspoint.com/python/python_sending_email.htm
