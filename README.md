@@ -1,4 +1,4 @@
-# sem4_python_dataVisulization
+# sem4_python_dataVisulization using Tkinter and Mathplotlib
 #If you want to run this project your should consider adding some text in the following way.
 
 #1)add your email and password in line 210,216 in SigniWindow.py,            
